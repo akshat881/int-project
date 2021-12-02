@@ -9,7 +9,7 @@
   --light-three: #f6f7fb;
 }
 
-/* Genral Styles */
+
 
 *,
 *::before,
@@ -214,9 +214,6 @@ img {
   font-size: 1rem;
 }
 
-/* End Genral Styles */
-
-/* Header */
 
 header {
   width: 100%;
@@ -415,9 +412,6 @@ header .circle {
   opacity: 0.06;
 }
 
-/* End header */
-
-/* Services */
 
 .cards {
   display: flex;
@@ -505,9 +499,7 @@ header .circle {
   pointer-events: none;
 }
 
-/* End Services */
 
-/* Portfolio */
 
 .portfolio {
   position: relative;
@@ -697,9 +689,6 @@ header .circle {
   justify-content: center;
 }
 
-/* End Portfolio */
-
-/* About */
 
 .about {
   overflow: hidden;
